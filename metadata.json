@@ -1,0 +1,5 @@
+{
+  "name": "Clinical History Navigator",
+  "description": "A comprehensive application for creating, managing, and submitting detailed medical history forms. It features robust local storage, multi-step form submissions, and statistical analysis of your work.",
+  "requestFramePermissions": []
+}
